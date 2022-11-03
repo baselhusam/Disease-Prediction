@@ -2,6 +2,7 @@
 import streamlit as st
 import numpy as np
 import pickle
+import xgboost
 
 # Initial some values
 st.session_state.horizontal = True
