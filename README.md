@@ -7,6 +7,3 @@
 *  ##### The `model.sav` is the trained model <br>
 *  ##### The `training.csv` and `testing.csv` are to build and evaluate the model <br>
 
-<hr> 
-
-
